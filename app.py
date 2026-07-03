@@ -1,7 +1,7 @@
 import streamlit as st
 
 #Take a user Input\
-name= st,text_input("Enter your name")
+name= st.text_input("Enter your name")
 
 st.title("Take the input")
 
